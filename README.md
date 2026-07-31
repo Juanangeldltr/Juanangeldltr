@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Juan Ángel 👋
 
-<!--
-**Juanangeldltr/Juanangeldltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student passionate about building software solutions and continuously learning new technologies.
 
-Here are some ideas to get you started:
+I have hands-on experience designing user interfaces for inventory management and point-of-sale (POS) systems, along with a solid foundation in modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Java
+- Git & GitHub
+- MySQL
+- Figma
+
+## 🚀 Currently
+
+- Building projects for my portfolio
+- Improving my React and Full Stack development skills
+- Learning Docker and modern software development practices
+
+## 📂 Featured Projects
+
+Coming soon:
+
+- Inventory Management System
+- Point of Sale (POS) System
+- Admin Dashboard
+- Responsive Web Applications
+
+## Let's Connect
+
+- LinkedIn: [Juan Ángel de la Torre Rubio](https://linkedin.com/in/juan-angel-de-la-torre-rubio)
+- Email: juanangeldltr@gmail.com
