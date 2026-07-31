@@ -1,8 +1,10 @@
 # Hi, I'm Juan Ángel 👋
 
-I'm a Computer Systems Engineering student passionate about building software solutions and continuously learning new technologies.
+- Computer Systems Engineering Student  
+- Aguascalientes, Mexico  
+- Building software solutions with modern technologies.
 
-I have hands-on experience designing user interfaces for inventory management and point-of-sale (POS) systems, along with a solid foundation in modern web development.
+I'm passionate about software development and enjoy creating applications that solve real-world problems. I have experience designing user interfaces for inventory management and point-of-sale (POS) systems, and I'm continuously expanding my knowledge across different technologies.
 
 ## 🛠️ Tech Stack
 
@@ -11,26 +13,25 @@ I have hands-on experience designing user interfaces for inventory management an
 - JavaScript
 - React
 - Java
-- Git & GitHub
+- PHP
 - MySQL
+- Git & GitHub
+- Docker
 - Figma
 
-## 🚀 Currently
+## 🌱 Currently Learning
 
-- Building projects for my portfolio
-- Improving my React and Full Stack development skills
-- Learning Docker and modern software development practices
+- Software Architecture
+- Full Stack Development
+- Cloud & Docker
+- Best Practices in Software Engineering
 
 ## 📂 Featured Projects
 
-Coming soon:
+- MaxiVeterinaria Inventory & POS System *(Available on my GitHub)*
+- More projects coming soon...
 
-- Inventory Management System
-- Point of Sale (POS) System
-- Admin Dashboard
-- Responsive Web Applications
+## 📫 Let's Connect
 
-## Let's Connect
-
-- LinkedIn: [Juan Ángel de la Torre Rubio](https://linkedin.com/in/juan-angel-de-la-torre-rubio)
+- LinkedIn: https://linkedin.com/in/juan-angel-de-la-torre-rubio
 - Email: juanangeldltr@gmail.com
