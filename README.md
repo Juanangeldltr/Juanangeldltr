@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
 # Hi, I'm Juan Ángel 👋
 
 - Computer Systems Engineering Student  
