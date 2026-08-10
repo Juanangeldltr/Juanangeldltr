@@ -12,30 +12,37 @@
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Java
-- PHP
-- MySQL
-- Git & GitHub
-- Docker
-- Figma
+**Languages**  
+JavaScript · Java · PHP · HTML5 · CSS3
 
-## 🌱 Currently Learning
+**Frameworks & Technologies**  
+React · Docker
 
-- Software Architecture
+**Databases**  
+MySQL · Microsoft SQL Server
+
+**Tools & Design**  
+Git · GitHub · Figma
+
+## 🌱 Currently Exploring
+
 - Full Stack Development
-- Cloud & Docker
-- Best Practices in Software Engineering
+- Software Architecture
+- Cloud Technologies
+- Modern Development Practices
 
 ## 📂 Featured Projects
 
-- MaxiVeterinaria Inventory & POS System *(Available on my GitHub)*
-- More projects coming soon...
+### MaxiVeterinaria — Inventory & POS System
 
-## 📫 Let's Connect
+UI/UX design for an inventory management and point-of-sale system developed for a real business environment.
 
-- LinkedIn: https://linkedin.com/in/juan-angel-de-la-torre-rubio
-- Email: juanangeldltr@gmail.com
+**Focus:** UI/UX · Inventory Management · Point of Sale
+
+[View Project](https://github.com/Juanangeldltr/maxi-inventory-manager)
+
+## 📫 Contact
+
+- **LinkedIn:** [Juan Ángel de la Torre Rubio](https://linkedin.com/in/juan-angel-de-la-torre-rubio)
+- **Email:** [juanangeldltr@gmail.com](mailto:juanangeldltr@gmail.com)
+- **Location:** Aguascalientes, Mexico
