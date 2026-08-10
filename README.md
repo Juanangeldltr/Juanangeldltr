@@ -4,11 +4,11 @@
 
 # Hi, I'm Juan Ángel
 
-- Computer Systems Engineering Student  
-- Aguascalientes, Mexico  
-- Building software solutions with modern technologies.
+### Computer Systems Engineering Student
 
-I'm passionate about software development and enjoy creating applications that solve real-world problems. I have experience designing user interfaces for inventory management and point-of-sale (POS) systems, and I'm continuously expanding my knowledge across different technologies.
+- Aguascalientes, Mexico  
+- Software Development  
+- Web Development
 
 ## 🛠️ Tech Stack
 
