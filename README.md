@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="100%">
 </p>
 
-# Hi, I'm Juan Ángel 👋
+# Hi, I'm Juan Ángel
 
 - Computer Systems Engineering Student  
 - Aguascalientes, Mexico  
