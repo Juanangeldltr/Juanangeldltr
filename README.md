@@ -43,6 +43,7 @@ UI/UX design for an inventory management and point-of-sale system developed for 
 
 ## 📫 Contact
 
+- **Portfolio:** [personal-portfolio-eight-lac-24.vercel.app](https://personal-portfolio-eight-lac-24.vercel.app/)
 - **LinkedIn:** [Juan Ángel de la Torre Rubio](https://linkedin.com/in/juan-angel-de-la-torre-rubio)
 - **Email:** [juanangeldltr@gmail.com](mailto:juanangeldltr@gmail.com)
 - **Location:** Aguascalientes, Mexico
