@@ -41,7 +41,7 @@ UI/UX design for an inventory management and point-of-sale system developed for 
 
 [View Project](https://github.com/Juanangeldltr/maxi-inventory-manager)
 
-## 📫 Contact
+## Contact
 
 - **Portfolio:** [personal-portfolio-eight-lac-24.vercel.app](https://personal-portfolio-eight-lac-24.vercel.app/)
 - **LinkedIn:** [Juan Ángel de la Torre Rubio](https://linkedin.com/in/juan-angel-de-la-torre-rubio)
