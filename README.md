@@ -10,7 +10,7 @@
 - Software Development  
 - Web Development
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 JavaScript · Java · PHP · HTML5 · CSS3
@@ -24,14 +24,14 @@ MySQL · Microsoft SQL Server
 **Tools & Design**  
 Git · GitHub · Figma
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Full Stack Development
 - Software Architecture
 - Cloud Technologies
 - Modern Development Practices
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### MaxiVeterinaria — Inventory & POS System
 
